@@ -1,4 +1,4 @@
-# GreyGoo
+# GreyGoo PrintableProgram
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 This research endeavor, conducted by __Dr. John LaRocco__, __Dr. Qudsia Tahmina__, and __John Simonis__ at The Ohio State University, is dedicated to the development of a novel method for reading printer .gcode files and converting them into actual printable models for physical storage. Specifically, the primary objective of this project is to construct a system that can represent data in 8-bit integers and 16-bit floats with a common database to construct a physical print in place model using new Arc Overhangs.
