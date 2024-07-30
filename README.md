@@ -7,7 +7,7 @@ This research endeavor, conducted by __Dr. John LaRocco__, __Dr. Qudsia Tahmina_
 
 ### Software
 - [Git](https://git-scm.com/downloads)
-- [Python]([https://www.arduino.cc/en/software](https://www.python.org/))
+- [Python](https://www.python.org/)
 - [PrusaSlicer]( https://www.prusa3d.com/en/page/prusaslicer_424/) or other slicer
 ```pip install pandas numpy openpyxl trimesh[easy]```
 
